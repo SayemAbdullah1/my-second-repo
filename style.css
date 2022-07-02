@@ -1,0 +1,22 @@
+*{margin: 0; padding: 0; outline: 0;}
+.Headersection{
+    height: 70px;
+    background-color: aqua;
+}
+.template{
+    width: 960px;
+    margin: 0 auto;
+}
+.Headersection h2{}
+.Headersection p{}
+.Navsection{}
+.Navsection p{}
+.Containsection{}
+.Maincontent{}
+.Maincontent h2{}
+.Maincontent p{}
+.Sidebar{}
+.Sidebar h2{}
+.Sidebar p{}
+.Footersection{}
+.Footersection h2{}
